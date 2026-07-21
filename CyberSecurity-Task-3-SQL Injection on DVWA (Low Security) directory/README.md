@@ -105,7 +105,7 @@ This task demonstrated how SQL Injection vulnerabilities occur when user input i
 
 ## Author
 
-**Name:** Your Name
+**Name:** Hamza Riaz
 
 **Internship:** Oasis Infobyte - Cyber Security Internship
 
